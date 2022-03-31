@@ -9,7 +9,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
-			<version>4.2.4.RELEASE</version>
+			<version>5.3.18</version>
 			<exclusions>
 				<!-- exclude default spring logging to add slf4j -->
 				<exclusion>
